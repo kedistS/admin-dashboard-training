@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/workflow-test-training/static/css/main.75c00059.css",
+    "main.js": "/workflow-test-training/static/js/main.ba827947.js",
+    "index.html": "/workflow-test-training/index.html",
+    "main.75c00059.css.map": "/workflow-test-training/static/css/main.75c00059.css.map",
+    "main.ba827947.js.map": "/workflow-test-training/static/js/main.ba827947.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75c00059.css",
+    "static/js/main.ba827947.js"
+  ]
+}
